@@ -240,6 +240,7 @@ th {
   }
   .navbar {
     display: none;
+    text-align: center;
   }
   .table td,
   .table th {
@@ -3582,11 +3583,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li {
   position: relative;
   display: block;
+  text-align: center;
+
 }
 .nav > li > a {
   position: relative;
   display: block;
   padding: 10px 15px;
+  text-align: center;
+    
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
